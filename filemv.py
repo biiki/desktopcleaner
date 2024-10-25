@@ -44,7 +44,7 @@ class DesktopCleaner:
         print(f"Moved file {filename} to {new_dest}")
 
 
-folder_to_track = 'C:/Users/Suple/Desktop/'
+# folder_to_track = 'C:/Users/{USER}/Desktop/'
 ignore_patterns = ['*.py']  # patterns to ignore
 
 # cleaner object
